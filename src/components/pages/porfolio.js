@@ -1,12 +1,26 @@
 import React from "react";
 // import NavTabs from "./NavTabs"
-import "../../style.css"
+import "../../style.css";
 
 function Portfolio() {
   return (
     <div>
       <h1>Portfolio Page</h1>
-      <img className="portfolioimg" src="https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200126144225-06-kobe-bryant-lead-image.jpg" alt="kobe"></img>
+      <div class="wrapper">
+        <div class="wrapper">
+          <a href="https://benabbott85.github.io/Project-1/">
+            {" "}
+            <img className="portfolioimg" src="logo2.png" alt="easicuisi"></img>
+          </a>
+           
+           <a href="https://benabbott85.github.io/B-Abbott-HW-5/"><img className="dayplanner"src="https://bwprintworks.com/39-large_default/small-one-week-view-day-planner-8-5-x-5-5.jpg" alt="dayplanner"></img>
+           </a>
+
+           <a href= "https://lit-shelf-33451.herokuapp.com/"><img className="notetaker" src="https://jeffshore.com/wp-content/uploads/2016/07/Taking-Notes.jpg" alt="notetaker"></img></a>
+
+           <a href="https://github.com/benabbott85/B-Abbott-HW-8"><img className="developerprofile" src="https://cdn-images-1.medium.com/max/1600/1*137RurhEOkjDyUGWQJhvAg.png" alt="developerprofile"></img></a>
+        </div>
+      </div>
     </div>
   );
 }

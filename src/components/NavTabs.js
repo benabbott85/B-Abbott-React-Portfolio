@@ -39,12 +39,12 @@ function NavTabs() {
         </Link>
       </li>
       <li className="nav-item">
-        <Link
+        {/* <Link
           to="/contact/learn"
           className={location.pathname === "/contact/learn" ? "nav-link active" : "nav-link"}
         >
           Learn
-        </Link>
+        </Link> */}
       </li>
     </ul>
   );

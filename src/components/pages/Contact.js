@@ -5,20 +5,19 @@ import Learn from "./Learn";
 
 function Contact(props) {
   return (
-    <div>
+    <div className="contact">
       <h1>Contact Me</h1>
       <p>
         Tel: (516) 318-1366
+        <br></br>
+
         Email: babbott85@gmail.com
+        <br></br>
+        
         Github: benabbott85
+        <br></br>
       </p>
-      <Link to={`${props.match.url}/learn`} role="button" className="btn btn-link">
-        Learn More
-      </Link>{" "}
-      <Link to="/contact" role="button" className="btn btn-link">
-        Learn Less
-      </Link>
-      <Route exact path={`${props.match.url}/learn`} component={Learn} />
+      
     </div>
   );
 }
