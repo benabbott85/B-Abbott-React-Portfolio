@@ -4,21 +4,25 @@ body {
 }
 
 .portfolioimg {
-  height: 200px;
-  width: 250px;
+  height: 300px;
+  width: 300px;
   margin-left: 225px;
-  border-style: solid;
-    border-color: white;
-    border-width: 1px
+  /* border-style: solid; */
+    /* border-color: white; */
+    /* border-width: 1px; */
+ float: left;
+padding-top: 10px;
 }
 
 .dayplanner{
-    height: 200px;
-    width: 250px;
-    margin-left: 300px;
-    border-style: solid;
-    border-color: white;
-    border-width: 1px
+    height: 300px;
+    width: 300px;
+    margin-left: 225px;
+    /* border-style: solid; */
+      /* border-color: white; */
+      /* border-width: 1px; */
+   float: left;
+   margin-top: 100px
 }
 
 .notetaker{
@@ -87,3 +91,33 @@ body {
 .fa-github {
     margin-left: 1300px;
 }
+
+.header1 {
+    margin-left: 550px;
+    margin-top: 5px;
+}
+
+.para1{
+    margin-left: 550px
+}
+
+.header2 {
+    margin-left: 300px;
+   margin-top: 140px;
+}
+
+.para2 {
+    color: white;
+    margin-left: 225px;
+    margin-top: 20px;
+    width: 40%
+}
+
+.para3 {
+    margin-left: 550px
+}
+
+.para4 {
+    margin-left: 550px;
+}
+
