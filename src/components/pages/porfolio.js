@@ -73,6 +73,29 @@ function Portfolio() {
          
           </div>
 
+          <div class="guild">
+          <a href="https://fierce-wildwood-24206.herokuapp.com/">
+            <img className="assistant" src="https://www.mmogames.com/wp-content/uploads/2015/08/gw001.jpg" alt="guild"></img>
+          </a>
+          <h1 class="header3"> Guild Assistant</h1>
+          <p class="para1">- This is a developer portfolio that I designed for a client who is training to become a data scientist.  
+           <br></br>
+          - Application includes links to his resume and LinkedIn profile, as well as contact information for employers.
+          <br></br>
+          - Links to project repositories on GitHub are also included on the portfolio page
+          </p>
+          <p class="para3">- Languages used: HTML, CSS, Bootstrap</p>
+          
+          <p class="para4">- I was responsible entire project from concept to completion. I met with Paul a few times 
+          <br></br>
+          to gain an understanding of what he was looking for  and then designed it from there.
+          <br></br>
+          
+             </p>
+          
+         
+          </div>
+
           
            {/* <a href= "https://lit-shelf-33451.herokuapp.com/"><img className="notetaker" src="https://jeffshore.com/wp-content/uploads/2016/07/Taking-Notes.jpg" alt="notetaker"></img></a>
 
