@@ -42,7 +42,32 @@ function Portfolio() {
           
           <p class="para4">- I was responsible for the back end work on this project. Once the front end was wired up,
           <br></br>
-          I was tasked with wiring up the server to be able to store user data that could be called later
+          I was tasked with wiring up the server to be able to store user data that could be called 
+          <br></br>
+          when the user requests it.
+             </p>
+          
+         
+          </div>
+
+          <div class="sauchelli">
+          <a href="https://benabbott85.github.io/Paul-Sauchelli/">
+            <img className="paul" src="https://cdn.dribbble.com/users/1128142/screenshots/3604965/artboard_1.png" alt="paul"></img>
+          </a>
+          <h1 class="header3"> Paul Sauchelli</h1>
+          <p class="para1">- This is a developer portfolio that I designed for a client who is training to become a data scientist.  
+           <br></br>
+          - Application includes links to his resume and LinkedIn profile, as well as contact information for employers.
+          <br></br>
+          - Links to project repositories on GitHub are also included on the portfolio page
+          </p>
+          <p class="para3">- Languages used: HTML, CSS, Bootstrap</p>
+          
+          <p class="para4">- I was responsible entire project from concept to completion. I met with Paul a few times 
+          <br></br>
+          to gain an understanding of what he was looking for  and then designed it from there.
+          <br></br>
+          
              </p>
           
          
