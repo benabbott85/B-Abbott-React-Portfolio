@@ -63,7 +63,7 @@ function Portfolio() {
           </p>
           <p class="para3">- Languages used: HTML, CSS, Bootstrap</p>
           
-          <p class="para4">- I was responsible entire project from concept to completion. I met with Paul a few times 
+          <p class="para4">- I was responsible for the entire project from concept to completion. I met with Paul a few times 
           <br></br>
           to gain an understanding of what he was looking for  and then designed it from there.
           <br></br>
@@ -78,17 +78,17 @@ function Portfolio() {
             <img className="assistant" src="https://www.mmogames.com/wp-content/uploads/2015/08/gw001.jpg" alt="guild"></img>
           </a>
           <h1 class="header3"> Guild Assistant</h1>
-          <p class="para1">- This is a developer portfolio that I designed for a client who is training to become a data scientist.  
+          <p class="para1">- This is the final project for my full stack web development course.   
            <br></br>
-          - Application includes links to his resume and LinkedIn profile, as well as contact information for employers.
+          - Application was designed as a guild management system for gamers.  Users are able to 
           <br></br>
-          - Links to project repositories on GitHub are also included on the portfolio page
+          create characters, and track attendance for those characters as part of a larger guild.
           </p>
-          <p class="para3">- Languages used: HTML, CSS, Bootstrap</p>
+          <p class="para3">- Languages used: React</p>
           
-          <p class="para4">- I was responsible entire project from concept to completion. I met with Paul a few times 
+          <p class="para4">- I was responsible for the user authentication aspect of this project.  We decided 
           <br></br>
-          to gain an understanding of what he was looking for  and then designed it from there.
+          to use passport and I was tasked with wiring that up to run with the routes.
           <br></br>
           
              </p>
