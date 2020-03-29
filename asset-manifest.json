@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/B-Abbott-React-Portfolio/static/css/main.d7c8789d.chunk.css",
-    "main.js": "/B-Abbott-React-Portfolio/static/js/main.ece986ed.chunk.js",
-    "main.js.map": "/B-Abbott-React-Portfolio/static/js/main.ece986ed.chunk.js.map",
+    "main.css": "/B-Abbott-React-Portfolio/static/css/main.3afadc59.chunk.css",
+    "main.js": "/B-Abbott-React-Portfolio/static/js/main.bc3ac543.chunk.js",
+    "main.js.map": "/B-Abbott-React-Portfolio/static/js/main.bc3ac543.chunk.js.map",
     "runtime-main.js": "/B-Abbott-React-Portfolio/static/js/runtime-main.bf4958b3.js",
     "runtime-main.js.map": "/B-Abbott-React-Portfolio/static/js/runtime-main.bf4958b3.js.map",
     "static/js/2.47fa06ef.chunk.js": "/B-Abbott-React-Portfolio/static/js/2.47fa06ef.chunk.js",
     "static/js/2.47fa06ef.chunk.js.map": "/B-Abbott-React-Portfolio/static/js/2.47fa06ef.chunk.js.map",
     "index.html": "/B-Abbott-React-Portfolio/index.html",
-    "precache-manifest.2a05dbf3f397e35b490df8587f287df7.js": "/B-Abbott-React-Portfolio/precache-manifest.2a05dbf3f397e35b490df8587f287df7.js",
+    "precache-manifest.58217bf4ce39d4c4e0cacbb0c098e719.js": "/B-Abbott-React-Portfolio/precache-manifest.58217bf4ce39d4c4e0cacbb0c098e719.js",
     "service-worker.js": "/B-Abbott-React-Portfolio/service-worker.js",
-    "static/css/main.d7c8789d.chunk.css.map": "/B-Abbott-React-Portfolio/static/css/main.d7c8789d.chunk.css.map",
+    "static/css/main.3afadc59.chunk.css.map": "/B-Abbott-React-Portfolio/static/css/main.3afadc59.chunk.css.map",
     "static/js/2.47fa06ef.chunk.js.LICENSE.txt": "/B-Abbott-React-Portfolio/static/js/2.47fa06ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bf4958b3.js",
     "static/js/2.47fa06ef.chunk.js",
-    "static/css/main.d7c8789d.chunk.css",
-    "static/js/main.ece986ed.chunk.js"
+    "static/css/main.3afadc59.chunk.css",
+    "static/js/main.bc3ac543.chunk.js"
   ]
 }
